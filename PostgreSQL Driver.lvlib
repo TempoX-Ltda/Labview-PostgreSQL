@@ -4,6 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Support VIs" Type="Folder">
+		<Item Name="BD Timestamp to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Timestamp to Labview TimeStamp.vi"/>
+		<Item Name="Labview TimeStamp to BD Timestamp.vi" Type="VI" URL="../Support VIs/Labview TimeStamp to BD Timestamp.vi"/>
+	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Item Name="Parâmetros Execute Query.ctl" Type="VI" URL="../Type Defs/Parâmetros Execute Query.ctl"/>
 		<Item Name="Time Format String.ctl" Type="VI" URL="../Type Defs/Time Format String.ctl"/>
