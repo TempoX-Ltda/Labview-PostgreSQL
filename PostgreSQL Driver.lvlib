@@ -4,14 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Support VIs" Type="Folder">
 		<Item Name="BD Timestamp to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Timestamp to Labview TimeStamp.vi"/>
 		<Item Name="Labview TimeStamp to BD Timestamp.vi" Type="VI" URL="../Support VIs/Labview TimeStamp to BD Timestamp.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Item Name="Parâmetros Execute Query.ctl" Type="VI" URL="../Type Defs/Parâmetros Execute Query.ctl"/>
-		<Item Name="Time Format String.ctl" Type="VI" URL="../Type Defs/Time Format String.ctl"/>
 	</Item>
+	<Item Name="Time Format String.ctl" Type="VI" URL="../Type Defs/Time Format String.ctl"/>
 	<Item Name="Create Connection.vi" Type="VI" URL="../Create Connection.vi"/>
 	<Item Name="Destroy Connection.vi" Type="VI" URL="../Destroy Connection.vi"/>
 	<Item Name="Execute Query.vi" Type="VI" URL="../Execute Query.vi"/>
