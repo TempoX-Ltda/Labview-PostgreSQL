@@ -8,6 +8,7 @@
 	<Item Name="Support VIs" Type="Folder">
 		<Item Name="BD Timestamp to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Timestamp to Labview TimeStamp.vi"/>
 		<Item Name="Labview TimeStamp to BD Timestamp.vi" Type="VI" URL="../Support VIs/Labview TimeStamp to BD Timestamp.vi"/>
+		<Item Name="BD Date to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Date to Labview TimeStamp.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Item Name="Parâmetros Execute Query.ctl" Type="VI" URL="../Type Defs/Parâmetros Execute Query.ctl"/>
