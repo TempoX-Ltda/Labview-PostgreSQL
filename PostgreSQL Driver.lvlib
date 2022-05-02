@@ -9,11 +9,12 @@
 		<Item Name="BD Timestamp to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Timestamp to Labview TimeStamp.vi"/>
 		<Item Name="Labview TimeStamp to BD Timestamp.vi" Type="VI" URL="../Support VIs/Labview TimeStamp to BD Timestamp.vi"/>
 		<Item Name="BD Date to Labview TimeStamp.vi" Type="VI" URL="../Support VIs/BD Date to Labview TimeStamp.vi"/>
+		<Item Name="Verificar conexão.vi" Type="VI" URL="../Support VIs/Verificar conexão.vi"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Item Name="Parâmetros Execute Query.ctl" Type="VI" URL="../Type Defs/Parâmetros Execute Query.ctl"/>
+		<Item Name="Time Format String.ctl" Type="VI" URL="../Type Defs/Time Format String.ctl"/>
 	</Item>
-	<Item Name="Time Format String.ctl" Type="VI" URL="../Type Defs/Time Format String.ctl"/>
 	<Item Name="Create Connection.vi" Type="VI" URL="../Create Connection.vi"/>
 	<Item Name="Destroy Connection.vi" Type="VI" URL="../Destroy Connection.vi"/>
 	<Item Name="Execute Query.vi" Type="VI" URL="../Execute Query.vi"/>
